@@ -1,3 +1,5 @@
+% Author = Mirac Vuslat Basaran
+
 function sum = PE_002
 limit = 4000000; % limit is four million
 sum = 0;
